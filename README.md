@@ -10,7 +10,7 @@
 With 3+ years of experience building scalable and performance-optimized frontend applications, I specialize in:
 
 - ⚛️ **React.js**, **TypeScript**, **Redux**, **Context API**
-- 💅 **Tailwind CSS**, **Styled Components**, **Material UI / AntD**
+- 💅 **Tailwind CSS**, **Styled Components**
 - 🧪 **Jest**, **Vitest**, **React Testing Library**
 - 🔗 **REST API Integration**, **Micro-Frontend Architecture**
 - ⚡ **Web Performance Optimization (Lighthouse, Core Web Vitals)**
